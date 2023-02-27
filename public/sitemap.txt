@@ -1,5 +1,8 @@
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/about/index.html
-http://example.com/2023/02/27/hello-world/
-http://example.com/
+https://jinbilianshao.github.io/wikicode/categories/index.html
+https://jinbilianshao.github.io/wikicode/tags/index.html
+https://jinbilianshao.github.io/wikicode/2023/02/27/C/
+https://jinbilianshao.github.io/wikicode/about/index.html
+https://jinbilianshao.github.io/wikicode
+https://jinbilianshao.github.io/wikicode/tags/C/
+https://jinbilianshao.github.io/wikicode/categories/
+https://jinbilianshao.github.io/wikicode/categories/C/
