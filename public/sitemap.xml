@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jinbilianshao.github.io/wikicode/wiki/%E6%B5%8B%E8%AF%95-1/</loc>
+    
+    <lastmod>2023-02-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jinbilianshao.github.io/wikicode/tags/index.html</loc>
     
     <lastmod>2023-02-27</lastmod>
@@ -64,6 +73,13 @@
   
   <url>
     <loc>https://jinbilianshao.github.io/wikicode/categories/C/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jinbilianshao.github.io/wikicode/categories/drafts/</loc>
     <lastmod>2023-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

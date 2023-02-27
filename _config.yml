@@ -60,7 +60,7 @@ nofollow:
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://jinbilianshao.github.io/wikicode/
-root: https://jinbilianshao.github.io/wikicode/
+#root: https://jinbilianshao.github.io/wikicode/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
