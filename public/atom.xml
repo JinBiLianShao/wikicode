@@ -3,11 +3,11 @@
   <title>连思鑫的知识库</title>
   
   <subtitle>知识改变命运</subtitle>
-  <link href="https://jinbilianshao.github.io/wikicode/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://jinbilianshao.github.io/wikicode/"/>
+  <link href="http://example.com/"/>
   <updated>2023-02-27T12:48:35.326Z</updated>
-  <id>https://jinbilianshao.github.io/wikicode/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>连思鑫</name>
@@ -18,20 +18,20 @@
   
   <entry>
     <title>C++</title>
-    <link href="https://jinbilianshao.github.io/wikicode/2023/02/27/C/"/>
-    <id>https://jinbilianshao.github.io/wikicode/2023/02/27/C/</id>
+    <link href="http://example.com/wiki/C/"/>
+    <id>http://example.com/wiki/C/</id>
     <published>2023-02-27T09:59:00.000Z</published>
     <updated>2023-02-27T12:48:35.326Z</updated>
     
     
     
     
-    <category term=".." scheme="https://jinbilianshao.github.io/wikicode/categories/"/>
+    <category term=".." scheme="http://example.com/categories/"/>
     
-    <category term="C++" scheme="https://jinbilianshao.github.io/wikicode/categories/C/"/>
+    <category term="C++" scheme="http://example.com/categories/C/"/>
     
     
-    <category term="C++" scheme="https://jinbilianshao.github.io/wikicode/tags/C/"/>
+    <category term="C++" scheme="http://example.com/tags/C/"/>
     
   </entry>
   
