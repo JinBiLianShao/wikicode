@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>连思鑫的知识库</title>
+  
+  <subtitle>知识改变命运</subtitle>
+  <link href="https://jinbilianshao.github.io/wikicode/atom.xml" rel="self"/>
+  
+  <link href="https://jinbilianshao.github.io/wikicode/"/>
+  <updated>2023-02-27T12:48:35.326Z</updated>
+  <id>https://jinbilianshao.github.io/wikicode/</id>
+  
+  <author>
+    <name>连思鑫</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++</title>
+    <link href="https://jinbilianshao.github.io/wikicode/2023/02/27/C/"/>
+    <id>https://jinbilianshao.github.io/wikicode/2023/02/27/C/</id>
+    <published>2023-02-27T09:59:00.000Z</published>
+    <updated>2023-02-27T12:48:35.326Z</updated>
+    
+    
+    
+    
+    <category term=".." scheme="https://jinbilianshao.github.io/wikicode/categories/"/>
+    
+    <category term="C++" scheme="https://jinbilianshao.github.io/wikicode/categories/C/"/>
+    
+    
+    <category term="C++" scheme="https://jinbilianshao.github.io/wikicode/tags/C/"/>
+    
+  </entry>
+  
+</feed>
