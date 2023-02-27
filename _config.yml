@@ -102,4 +102,8 @@ theme: Wikitten
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:JinBiLianShao/wikicode.git
+  branch: display
+  token: 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
+
