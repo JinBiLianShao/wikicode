@@ -183,31 +183,26 @@ image_minifier:
   progressive: false
   silent: false
 
-  # hexo-neat
-  # md博文压缩
+# hexo-neat
+# 博文压缩
 neat_enable: true
-  # 压缩html（ejs，swig等也属于html格式片段）
+# 压缩html
 neat_html:
   enable: true
   exclude:
-  # 压缩css
+# 压缩css
 neat_css:
   enable: true
   exclude:
-    - '*.min.css'
     - '**/*.min.css'
-    - 'jquery.fancybox.min.css'
-    - '**/live2d-widget/waifu.css'
-  # 压缩js
+# 压缩js
 neat_js:
   enable: true
-  mangle: true #打印日志
+  mangle: true
   output:
   compress:
-  exclude: #排除文件
-    - '*.min.js'
+  exclude:
     - '**/*.min.js'
-    - 'jquery.fancybox.min.js'
-    - '**/live2d-widget/*.js'
-    - '**/live2d-widget/*.min.js'
+    - '**/jquery.fancybox.pack.js'
+    - '**/index.js'
 
