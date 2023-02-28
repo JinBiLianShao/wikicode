@@ -3,11 +3,11 @@
   <title>连思鑫的知识库</title>
   
   <subtitle>知识改变命运</subtitle>
-  <link href="https://jinbilianshao.github.io/wikicode/atom.xml" rel="self"/>
+  <link href="https://jinbilianshao.github.io/atom.xml" rel="self"/>
   
-  <link href="https://jinbilianshao.github.io/wikicode/"/>
+  <link href="https://jinbilianshao.github.io/"/>
   <updated>2023-02-27T14:43:11.393Z</updated>
-  <id>https://jinbilianshao.github.io/wikicode/</id>
+  <id>https://jinbilianshao.github.io/</id>
   
   <author>
     <name>连思鑫</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试</title>
-    <link href="https://jinbilianshao.github.io/wikicode/wiki/%E6%B5%8B%E8%AF%95-1/"/>
-    <id>https://jinbilianshao.github.io/wikicode/wiki/%E6%B5%8B%E8%AF%95-1/</id>
+    <link href="https://jinbilianshao.github.io/wiki/%E6%B5%8B%E8%AF%95-1/"/>
+    <id>https://jinbilianshao.github.io/wiki/%E6%B5%8B%E8%AF%95-1/</id>
     <published>2023-02-27T14:42:00.000Z</published>
     <updated>2023-02-27T14:43:11.393Z</updated>
     
@@ -34,29 +34,29 @@
     
     
     
-    <category term=".." scheme="https://jinbilianshao.github.io/wikicode/categories/"/>
+    <category term=".." scheme="https://jinbilianshao.github.io/categories/"/>
     
-    <category term="_drafts" scheme="https://jinbilianshao.github.io/wikicode/categories/drafts/"/>
+    <category term="_drafts" scheme="https://jinbilianshao.github.io/categories/drafts/"/>
     
     
   </entry>
   
   <entry>
     <title>C++</title>
-    <link href="https://jinbilianshao.github.io/wikicode/wiki/C/"/>
-    <id>https://jinbilianshao.github.io/wikicode/wiki/C/</id>
+    <link href="https://jinbilianshao.github.io/wiki/C/"/>
+    <id>https://jinbilianshao.github.io/wiki/C/</id>
     <published>2023-02-27T09:59:00.000Z</published>
     <updated>2023-02-27T12:48:35.326Z</updated>
     
     
     
     
-    <category term=".." scheme="https://jinbilianshao.github.io/wikicode/categories/"/>
+    <category term=".." scheme="https://jinbilianshao.github.io/categories/"/>
     
-    <category term="C++" scheme="https://jinbilianshao.github.io/wikicode/categories/C/"/>
+    <category term="C++" scheme="https://jinbilianshao.github.io/categories/C/"/>
     
     
-    <category term="C++" scheme="https://jinbilianshao.github.io/wikicode/tags/C/"/>
+    <category term="C++" scheme="https://jinbilianshao.github.io/tags/C/"/>
     
   </entry>
   
