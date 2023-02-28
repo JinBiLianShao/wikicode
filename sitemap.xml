@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/wiki/%E6%B5%8B%E8%AF%95-1/</loc>
+    <loc>https://jinbilianshao.github.io/wiki/%E6%B5%8B%E8%AF%95-1/</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/categories/index.html</loc>
+    <loc>https://jinbilianshao.github.io/categories/index.html</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/tags/index.html</loc>
+    <loc>https://jinbilianshao.github.io/tags/index.html</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/wiki/C/</loc>
+    <loc>https://jinbilianshao.github.io/wiki/C/</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/about/index.html</loc>
+    <loc>https://jinbilianshao.github.io/about/index.html</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode</loc>
+    <loc>https://jinbilianshao.github.io/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,7 +56,7 @@
 
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/tags/C/</loc>
+    <loc>https://jinbilianshao.github.io/tags/C/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -65,21 +65,21 @@
 
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/categories/</loc>
+    <loc>https://jinbilianshao.github.io/categories/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/categories/C/</loc>
+    <loc>https://jinbilianshao.github.io/categories/C/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/wikicode/categories/drafts/</loc>
+    <loc>https://jinbilianshao.github.io/categories/drafts/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
