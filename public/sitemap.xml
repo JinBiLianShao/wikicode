@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/tags/index.html</loc>
+    <loc>https://jinbilianshao.github.io/categories/index.html</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://jinbilianshao.github.io/categories/index.html</loc>
+    <loc>https://jinbilianshao.github.io/tags/index.html</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -49,7 +49,7 @@
 
   <url>
     <loc>https://jinbilianshao.github.io/</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +57,7 @@
   
   <url>
     <loc>https://jinbilianshao.github.io/tags/C/</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,21 +66,21 @@
   
   <url>
     <loc>https://jinbilianshao.github.io/categories/</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jinbilianshao.github.io/categories/C/</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jinbilianshao.github.io/categories/drafts/</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

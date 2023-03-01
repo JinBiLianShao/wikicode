@@ -203,6 +203,4 @@ neat_js:
   compress:
   exclude:
     - '**/*.min.js'
-    - '**/jquery.fancybox.pack.js'
-    - '**/index.js'
 
